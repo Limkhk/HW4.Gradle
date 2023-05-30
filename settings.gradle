@@ -1,0 +1,5 @@
+rootProject.name = 'HW4.ModuleGradle'
+include 'db'
+include 'api'
+include 'service'
+
